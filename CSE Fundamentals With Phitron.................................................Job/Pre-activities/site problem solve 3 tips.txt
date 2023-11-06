@@ -1,0 +1,4 @@
+1. Again login/logout
+2. Hard reset: clrt + shift + r
+
+3. phitron.io cach/coolies clear
